@@ -1,0 +1,13 @@
+public class Dog{
+  Steing breed;
+  int age;
+  String color;
+  viod barking(){
+  }
+  
+  viod hungry(){
+  }
+  
+  viod sleeping(){
+  }
+}
