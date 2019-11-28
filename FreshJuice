@@ -1,0 +1,11 @@
+class FreshJuice{
+  enum FreshJuiceSize{SMALL,MEDIUM,LARGE}## enum 枚举 大、中、小
+  FreshJuiceSize;
+}
+
+public class FreshJuiceTest{
+  public static viod main(String []args){
+    FreshJuice Juice = new FreshJuice();
+    Juice.size = FreshJuiceSize.MEDIUM  ;
+  }
+}
